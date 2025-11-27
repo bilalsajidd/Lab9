@@ -3,4 +3,4 @@
 This is a NextJS starter in Firebase Studio.
 
 To get started, take a look at src/app/page.tsx.
-my name is bilal
+my name is bilal sajid
